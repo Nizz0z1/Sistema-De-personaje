@@ -1,0 +1,14 @@
+C:\Users\User\Documents\Universidad\4-Semestre\Electiva Profundizacion\C\SistemaDePersonaje\bin\Debug\net10.0\SistemaDePersonaje.exe
+C:\Users\User\Documents\Universidad\4-Semestre\Electiva Profundizacion\C\SistemaDePersonaje\bin\Debug\net10.0\SistemaDePersonaje.deps.json
+C:\Users\User\Documents\Universidad\4-Semestre\Electiva Profundizacion\C\SistemaDePersonaje\bin\Debug\net10.0\SistemaDePersonaje.runtimeconfig.json
+C:\Users\User\Documents\Universidad\4-Semestre\Electiva Profundizacion\C\SistemaDePersonaje\bin\Debug\net10.0\SistemaDePersonaje.dll
+C:\Users\User\Documents\Universidad\4-Semestre\Electiva Profundizacion\C\SistemaDePersonaje\bin\Debug\net10.0\SistemaDePersonaje.pdb
+C:\Users\User\Documents\Universidad\4-Semestre\Electiva Profundizacion\C\SistemaDePersonaje\obj\Debug\net10.0\SistemaDePersonaje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Universidad\4-Semestre\Electiva Profundizacion\C\SistemaDePersonaje\obj\Debug\net10.0\SistemaDePersonaje.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Universidad\4-Semestre\Electiva Profundizacion\C\SistemaDePersonaje\obj\Debug\net10.0\SistemaDePersonaje.AssemblyInfo.cs
+C:\Users\User\Documents\Universidad\4-Semestre\Electiva Profundizacion\C\SistemaDePersonaje\obj\Debug\net10.0\SistemaDePersonaje.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Universidad\4-Semestre\Electiva Profundizacion\C\SistemaDePersonaje\obj\Debug\net10.0\SistemaDePersonaje.dll
+C:\Users\User\Documents\Universidad\4-Semestre\Electiva Profundizacion\C\SistemaDePersonaje\obj\Debug\net10.0\refint\SistemaDePersonaje.dll
+C:\Users\User\Documents\Universidad\4-Semestre\Electiva Profundizacion\C\SistemaDePersonaje\obj\Debug\net10.0\SistemaDePersonaje.pdb
+C:\Users\User\Documents\Universidad\4-Semestre\Electiva Profundizacion\C\SistemaDePersonaje\obj\Debug\net10.0\SistemaDePersonaje.genruntimeconfig.cache
+C:\Users\User\Documents\Universidad\4-Semestre\Electiva Profundizacion\C\SistemaDePersonaje\obj\Debug\net10.0\ref\SistemaDePersonaje.dll
